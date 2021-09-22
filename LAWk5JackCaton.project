@@ -22,6 +22,17 @@
           "!type": "External",
           "file": [
             "forms",
+<<<<<<< Updated upstream
+=======
+            "Strings",
+            "Strings.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+>>>>>>> Stashed changes
             "Calc",
             "Calc.json"
           ]
